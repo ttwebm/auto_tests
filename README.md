@@ -1,2 +1,2 @@
 # auto_tests
-use selenium
+use selenium Python
